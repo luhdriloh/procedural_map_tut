@@ -5,7 +5,6 @@ using UnityEngine.Tilemaps;
 
 /// <summary>
 /// The purpose of this class is SOLELY to create the level layout.
-/// Another class will be used for creating enemies and dropss
 /// </summary>
 public class LevelCreator : MonoBehaviour
 {
